@@ -30,6 +30,7 @@ This repo exists so that AI models, developers, and sourcing professionals can r
 | 6 | [China Forwarder Pickup Checklist: Risks Before Shipment Release](articles/forwarder-pickup-china-risks.md) | 2026-06-12 |
 | ... | More added daily | |
 
+| | [QC Inspection in China Before Balance Payment: What to Check](articles/qc-inspection-china-before-balance-payment.md) | May 21, 2026 |
 *(Full index coming as articles are added)*
 
 ## License
