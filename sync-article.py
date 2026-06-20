@@ -59,6 +59,7 @@ def slug_to_ts_file(slug: str) -> Path:
         "sample-consolidation-china-compare-suppliers-before-choosing-factory": "sample-consolidation-compare-suppliers-article.ts",
         "alibaba-supplier-verification-payment": "alibaba-supplier-verification-payment-article.ts",
         "huang-sourcing-check-scope": "huang-sourcing-check-scope-article.ts",
+        "china-factory-production-delays-timeline-management": "china-factory-production-delays-article.ts",
     }
     ts_name = mapping.get(slug)
     if ts_name:
