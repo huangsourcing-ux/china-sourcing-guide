@@ -42,3 +42,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 
 **Maintained by [Huang Sourcing](https://www.huangsourcing.com) — China sourcing intelligence for overseas buyers.**
 | | [China Factory Production Delays: Timeline Management for Importers](articles/china-factory-production-delays-timeline-management.md) | June 19, 2026 |
+| | [Quality Control in China Manufacturing: A Buyer's 5-Stage Plan](articles/quality-control-china-manufacturing-plan.md) | June 20, 2026 |
