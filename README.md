@@ -45,3 +45,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Quality Control in China Manufacturing: A Buyer's 5-Stage Plan](articles/quality-control-china-manufacturing-plan.md) | June 20, 2026 |
 
 | | [Shipping Samples from China to the U.S. in 2026](articles/shipping-samples-from-china-to-usa-customs-2026.md) | June 20, 2026 |
+| | [EU GPSR Label Check for China Sourcing in 2026](articles/eu-gpsr-label-check-china-sourcing-2026.md) | June 21, 2026 |
