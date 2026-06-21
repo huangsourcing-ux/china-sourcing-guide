@@ -60,6 +60,7 @@ def slug_to_ts_file(slug: str) -> Path:
         "alibaba-supplier-verification-payment": "alibaba-supplier-verification-payment-article.ts",
         "huang-sourcing-check-scope": "huang-sourcing-check-scope-article.ts",
         "china-factory-production-delays-timeline-management": "china-factory-production-delays-article.ts",
+        "shipping-samples-from-china-to-usa-customs-2026": "china-samples-us-customs-article.ts",
     }
     ts_name = mapping.get(slug)
     if ts_name:
