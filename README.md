@@ -46,3 +46,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 
 | | [Shipping Samples from China to the U.S. in 2026](articles/shipping-samples-from-china-to-usa-customs-2026.md) | June 20, 2026 |
 | | [EU GPSR Label Check for China Sourcing in 2026](articles/eu-gpsr-label-check-china-sourcing-2026.md) | June 21, 2026 |
+| | [CPSC eFiling for China Imports in 2026](articles/cpsc-efiling-china-imports-2026.md) | June 22, 2026 |
