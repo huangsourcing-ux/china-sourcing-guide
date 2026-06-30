@@ -1,14 +1,14 @@
 ---
 title: "EU CBAM China Sourcing: 2026 Supplier Data Guide"
 date: June 30, 2026
-source: https://www.huangsourcing.com#cbam-checklist
+source: https://www.huangsourcing.com/eu-cbam-china-sourcing-2026
 topics: []
 ---
 
 # EU CBAM China Sourcing: 2026 Supplier Data Guide
 
 > Published: June 30, 2026
-> Original: https://www.huangsourcing.com#cbam-checklist
+> Original: https://www.huangsourcing.com/eu-cbam-china-sourcing-2026
 
 EU CBAM China sourcing guide for 2026: practical supplier, product, invoice, installation, emissions-data, verifier, and importer handoff checks before shipment.
 
@@ -20,9 +20,9 @@ Before deposit, final payment, or pickup, EU buyers should confirm whether the e
 
 ## Related Guides
 
-- [European Commission - Carbon Border Adjustment Mechanism](https://www.huangsourcing.comhttps://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en) — Official CBAM overview explaining the definitive regime from 2026, the 50-tonne threshold, annual declarations, certificate surrender, carbon-price deduction, and current CBAM sectors.
-- [European Commission - CBAM entered into force on January 1, 2026](https://www.huangsourcing.comhttps://taxation-customs.ec.europa.eu/news/cbam-successfully-entered-force-1-january-2026-2026-01-14_en) — January 2026 Commission update noting customs validation, threshold monitoring, early authorisation activity, and China among the main origin countries for CBAM-covered imports.
-- [European Commission - CBAM legislation and guidance](https://www.huangsourcing.comhttps://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-legislation-and-guidance_en) — Official guidance hub for implementing acts, operational procedures, default values, benchmarks, importer guidance, non-EU producer guidance, and communication templates.
-- [European Commission - CBAM sectors](https://www.huangsourcing.comhttps://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-sectors_en) — Official sector page covering cement, aluminium, fertilisers, iron and steel, hydrogen, and electricity resources for importers and non-EU producers.
-- [European Commission - CBAM registry and reporting](https://www.huangsourcing.comhttps://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry-and-reporting_en) — Official registry page covering authorised declarant applications, AMM, non-EU installation operator modules, O3CI access, EORI sharing, and reporting resources.
-- [European Commission - CBAM emissions verification](https://www.huangsourcing.comhttps://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en) — Official verification page explaining actual verified emissions data, accredited CBAM verifiers, oversight, and the expected timing for first verifier accreditations.
+- [European Commission - Carbon Border Adjustment Mechanism](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en) — Official CBAM overview explaining the definitive regime from 2026, the 50-tonne threshold, annual declarations, certificate surrender, carbon-price deduction, and current CBAM sectors.
+- [European Commission - CBAM entered into force on January 1, 2026](https://taxation-customs.ec.europa.eu/news/cbam-successfully-entered-force-1-january-2026-2026-01-14_en) — January 2026 Commission update noting customs validation, threshold monitoring, early authorisation activity, and China among the main origin countries for CBAM-covered imports.
+- [European Commission - CBAM legislation and guidance](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-legislation-and-guidance_en) — Official guidance hub for implementing acts, operational procedures, default values, benchmarks, importer guidance, non-EU producer guidance, and communication templates.
+- [European Commission - CBAM sectors](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-sectors_en) — Official sector page covering cement, aluminium, fertilisers, iron and steel, hydrogen, and electricity resources for importers and non-EU producers.
+- [European Commission - CBAM registry and reporting](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry-and-reporting_en) — Official registry page covering authorised declarant applications, AMM, non-EU installation operator modules, O3CI access, EORI sharing, and reporting resources.
+- [European Commission - CBAM emissions verification](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en) — Official verification page explaining actual verified emissions data, accredited CBAM verifiers, oversight, and the expected timing for first verifier accreditations.
