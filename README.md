@@ -52,3 +52,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [UFLPA China Supplier Check: 2026 Forced Labor Evidence Guide](articles/uflpa-china-supplier-check-2026.md) | June 27, 2026 |
 | | [China Section 301 Tariff Check: 2026 Supplier Evidence Guide](articles/china-section-301-tariff-check-2026.md) | June 28, 2026 |
 | | [EU Deforestation Regulation China Sourcing: 2026 Supplier Evidence Guide](articles/eu-deforestation-regulation-china-sourcing-2026.md) | June 29, 2026 |
+| | [EU CBAM China Sourcing: 2026 Supplier Data Guide](articles/eu-cbam-china-sourcing-2026.md) | June 30, 2026 |
