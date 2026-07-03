@@ -55,3 +55,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [EU CBAM China Sourcing: 2026 Supplier Data Guide](articles/eu-cbam-china-sourcing-2026.md) | June 30, 2026 |
 | | [EU EUR 3 Customs Duty on China Parcels: 2026 Seller Checklist](articles/eu-3-euro-customs-duty-china-parcels-2026.md) | July 1, 2026 |
 | | [U.S. De Minimis Suspension for China Shipments: 2026 Checklist](articles/us-de-minimis-suspension-china-shipments-2026.md) | July 2, 2026 |
+| | [EU Forced Labour Regulation China Sourcing: 2027 Evidence Guide](articles/eu-forced-labour-regulation-china-sourcing-2027.md) | July 3, 2026 |
