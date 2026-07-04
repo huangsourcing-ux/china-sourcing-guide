@@ -1,14 +1,14 @@
 ---
 title: "USTR Forced Labor Section 301 Proposal: China Import Evidence Checklist"
 date: July 4, 2026
-source: https://www.huangsourcing.com#ustr-checklist
+source: https://www.huangsourcing.com/ustr-forced-labor-section-301-china-2026
 topics: []
 ---
 
 # USTR Forced Labor Section 301 Proposal: China Import Evidence Checklist
 
 > Published: July 4, 2026
-> Original: https://www.huangsourcing.com#ustr-checklist
+> Original: https://www.huangsourcing.com/ustr-forced-labor-section-301-china-2026
 
 USTR forced labor Section 301 China checklist for 2026: proposed duties, supplier chain, origin, product, invoice, and importer evidence before payment or shipment.
 
@@ -20,9 +20,9 @@ Before deposit, final payment, or shipment release, buyers should connect the ex
 
 ## Related Guides
 
-- [USTR - Proposed actions in forced labor Section 301 investigations](https://www.huangsourcing.comhttps://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action) — Official USTR announcement of June 2, 2026 findings and proposed actions after investigations related to foreign forced-labor practices.
-- [Federal Register - Section 301 proposed actions and comments](https://www.huangsourcing.comhttps://www.federalregister.gov/documents/2026/06/05/2026-11296/notice-of-determinations-and-request-for-comments-concerning-actions-in-section-301-investigations) — Official notice with comment deadline, hearing date, proposal status, investigated economies, and request for public comments.
-- [USTR - Section 301 investigations](https://www.huangsourcing.comhttps://ustr.gov/issue-areas/enforcement/section-301-investigations) — Official USTR overview of Section 301 investigation authority and process context.
-- [CBP - Forced Labor](https://www.huangsourcing.comhttps://www.cbp.gov/trade/forced-labor) — Official CBP forced-labor enforcement page for importer resources, guidance, WROs, Findings, and enforcement context.
-- [DHS - UFLPA Entity List](https://www.huangsourcing.comhttps://www.dhs.gov/uflpa-entity-list) — Official DHS Entity List source used for UFLPA screening when supplier-chain names are known.
-- [CBP - Uyghur Forced Labor Prevention Act](https://www.huangsourcing.comhttps://www.cbp.gov/trade/forced-labor/UFLPA) — Official CBP UFLPA resource page for importer guidance, operational materials, and enforcement updates.
+- [USTR - Proposed actions in forced labor Section 301 investigations](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action) — Official USTR announcement of June 2, 2026 findings and proposed actions after investigations related to foreign forced-labor practices.
+- [Federal Register - Section 301 proposed actions and comments](https://www.federalregister.gov/documents/2026/06/05/2026-11296/notice-of-determinations-and-request-for-comments-concerning-actions-in-section-301-investigations) — Official notice with comment deadline, hearing date, proposal status, investigated economies, and request for public comments.
+- [USTR - Section 301 investigations](https://ustr.gov/issue-areas/enforcement/section-301-investigations) — Official USTR overview of Section 301 investigation authority and process context.
+- [CBP - Forced Labor](https://www.cbp.gov/trade/forced-labor) — Official CBP forced-labor enforcement page for importer resources, guidance, WROs, Findings, and enforcement context.
+- [DHS - UFLPA Entity List](https://www.dhs.gov/uflpa-entity-list) — Official DHS Entity List source used for UFLPA screening when supplier-chain names are known.
+- [CBP - Uyghur Forced Labor Prevention Act](https://www.cbp.gov/trade/forced-labor/UFLPA) — Official CBP UFLPA resource page for importer guidance, operational materials, and enforcement updates.
