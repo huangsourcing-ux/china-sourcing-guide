@@ -59,3 +59,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [USTR Forced Labor Section 301 Proposal: China Import Evidence Checklist](articles/ustr-forced-labor-section-301-china-2026.md) | July 4, 2026 |
 | | [EU Textile Digital Product Passport: China Supplier Data Checklist](articles/eu-textile-digital-product-passport-china-sourcing-2026.md) | July 5, 2026 |
 | | [U.S. Postal Informal Entry for China Mail Shipments: 2026 Checklist](articles/us-postal-informal-entry-china-mail-shipments-2026.md) | July 6, 2026 |
+| | [U.S. Customs Enforcement for China Imports in 2026](articles/us-customs-enforcement-china-imports-2026.md) | July 7, 2026 |
