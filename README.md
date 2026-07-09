@@ -61,3 +61,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [U.S. Postal Informal Entry for China Mail Shipments: 2026 Checklist](articles/us-postal-informal-entry-china-mail-shipments-2026.md) | July 6, 2026 |
 | | [U.S. Customs Enforcement for China Imports in 2026](articles/us-customs-enforcement-china-imports-2026.md) | July 7, 2026 |
 | | [EU Cyber Resilience Act China Sourcing: 2026 Product Evidence Checklist](articles/eu-cyber-resilience-act-china-sourcing-2026.md) | July 8, 2026 |
+| | [U.S. Section 232 Metal Tariffs for China Sourcing: 2026 Evidence Checklist](articles/us-section-232-metal-tariffs-china-sourcing-2026.md) | July 9, 2026 |
