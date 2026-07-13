@@ -239,7 +239,7 @@ def sync_article(slug: str) -> dict:
         return {"success": False, "error": f"Git error: {e.stderr.decode() if e.stderr else e}"}
     except subprocess.TimeoutExpired:
         return {"success": False, "error": "Git push timed out"}
-
+    
     return {"success": True, "title": title, "path": str(md_path)}
 
 
