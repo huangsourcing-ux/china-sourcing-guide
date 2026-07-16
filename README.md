@@ -63,3 +63,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [EU Cyber Resilience Act China Sourcing: 2026 Product Evidence Checklist](articles/eu-cyber-resilience-act-china-sourcing-2026.md) | July 8, 2026 |
 | | [U.S. Section 232 Metal Tariffs for China Sourcing: 2026 Evidence Checklist](articles/us-section-232-metal-tariffs-china-sourcing-2026.md) | July 9, 2026 |
 | | [Button Battery Packaging Checks Before Shipping from China](articles/button-battery-packaging-check-china.md) | July 14, 2026 |
+| | [Lithium Battery Air Shipping from China: 2026 Checklist](articles/lithium-battery-air-shipping-china-2026.md) | July 17, 2026 |
