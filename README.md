@@ -65,3 +65,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Button Battery Packaging Checks Before Shipping from China](articles/button-battery-packaging-check-china.md) | July 14, 2026 |
 | | [Lithium Battery Air Shipping from China: 2026 Checklist](articles/lithium-battery-air-shipping-china-2026.md) | July 17, 2026 |
 | | [Water Bead Toy Imports from China: 2026 CPSC Checklist](articles/water-bead-toy-cpsc-checklist.md) | July 18, 2026 |
+| | [UK Plug Checks Before Shipping Electrical Goods from China](articles/uk-plug-check-china-sourcing.md) | July 20, 2026 |
