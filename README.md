@@ -67,3 +67,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Water Bead Toy Imports from China: 2026 CPSC Checklist](articles/water-bead-toy-cpsc-checklist.md) | July 18, 2026 |
 | | [UK Plug Checks Before Shipping Electrical Goods from China](articles/uk-plug-check-china-sourcing.md) | July 20, 2026 |
 | | [STURDY Dresser Checks Before Shipping from China](articles/sturdy-dresser-checks-china.md) | July 21, 2026 |
+| | [EU Toy Safety Regulation: China Supplier Checklist](articles/eu-toy-safety-regulation-china.md) | July 22, 2026 |
