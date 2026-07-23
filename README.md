@@ -69,3 +69,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [STURDY Dresser Checks Before Shipping from China](articles/sturdy-dresser-checks-china.md) | July 21, 2026 |
 | | [EU Toy Safety Regulation: China Supplier Checklist](articles/eu-toy-safety-regulation-china.md) | July 22, 2026 |
 | | [Toddler Tower Checks Before Shipping from China](articles/toddler-tower-checks-china.md) | July 23, 2026 |
+| | [How to Check a China Lab Report Before U.S. Shipment](articles/verify-china-lab-test-report.md) | July 24, 2026 |
