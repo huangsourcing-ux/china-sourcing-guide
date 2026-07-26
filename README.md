@@ -72,3 +72,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [How to Check a China Lab Report Before U.S. Shipment](articles/verify-china-lab-test-report.md) | July 24, 2026 |
 | | [Amazon FBA Prep in China After Amazon Ended Prep Services](articles/amazon-fba-prep-china-fnsku-carton-labels.md) | May 23, 2026 |
 | | [Infant Neck Float Checks Before Shipping from China](articles/infant-neck-float-checks-china.md) | July 26, 2026 |
+| | [Power Bank Quality Checks Before Shipping from China](articles/power-bank-checks-china.md) | July 27, 2026 |
