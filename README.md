@@ -75,3 +75,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Power Bank Quality Checks Before Shipping from China](articles/power-bank-checks-china.md) | July 27, 2026 |
 
 | | [Adult Bed Rail Checks Before Shipping from China](articles/adult-bed-rail-checks-china.md) | July 28, 2026 |
+| | [Immersion Water Heater Checks Before Shipping from China](articles/immersion-water-heater-checks-china.md) | July 29, 2026 |
