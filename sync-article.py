@@ -20,7 +20,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Paths
-HF_SOURCING = Path("/Users/hfsourcing/huangsourcing/HFsourcing")
+HF_SOURCING = Path("/tmp/huang-seo-auto.mcErZ1")
 KNOWLEDGE_BASE = Path("/Users/hfsourcing/china-sourcing-guide")
 ARTICLES_DIR = KNOWLEDGE_BASE / "articles"
 SRC_LIB = HF_SOURCING / "src" / "lib"

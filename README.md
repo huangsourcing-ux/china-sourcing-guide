@@ -78,3 +78,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Immersion Water Heater Checks Before Shipping from China](articles/immersion-water-heater-checks-china.md) | July 29, 2026 |
 | | [Sand-Filled Toy Asbestos Checks Before Shipping from China](articles/sand-filled-toy-asbestos-checks-china.md) | July 30, 2026 |
 | | [Pool Drain Cover Checks Before Shipping from China](articles/pool-drain-cover-checks-china.md) | July 31, 2026 |
+| | [Magnetic Toy Checks Before Shipping from China](articles/magnetic-toy-checks-china.md) | August 1, 2026 |
