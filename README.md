@@ -79,3 +79,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Sand-Filled Toy Asbestos Checks Before Shipping from China](articles/sand-filled-toy-asbestos-checks-china.md) | July 30, 2026 |
 | | [Pool Drain Cover Checks Before Shipping from China](articles/pool-drain-cover-checks-china.md) | July 31, 2026 |
 | | [Magnetic Toy Checks Before Shipping from China](articles/magnetic-toy-checks-china.md) | August 1, 2026 |
+| | [How to Verify UL Certification from a China Supplier](articles/verify-ul-certification-china.md) | August 2, 2026 |
