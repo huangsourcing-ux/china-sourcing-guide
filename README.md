@@ -80,3 +80,5 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Pool Drain Cover Checks Before Shipping from China](articles/pool-drain-cover-checks-china.md) | July 31, 2026 |
 | | [Magnetic Toy Checks Before Shipping from China](articles/magnetic-toy-checks-china.md) | August 1, 2026 |
 | | [How to Verify UL Certification from a China Supplier](articles/verify-ul-certification-china.md) | August 2, 2026 |
+
+| | [Children's Sleepwear Checks Before Shipping from China](articles/childrens-sleepwear-checks-china.md) | August 3, 2026 |
