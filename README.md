@@ -82,3 +82,5 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [How to Verify UL Certification from a China Supplier](articles/verify-ul-certification-china.md) | August 2, 2026 |
 
 | | [Children's Sleepwear Checks Before Shipping from China](articles/childrens-sleepwear-checks-china.md) | August 3, 2026 |
+
+| | [Baby Lounger Checks Before Shipping from China](articles/baby-lounger-checks-china.md) | August 4, 2026 |
