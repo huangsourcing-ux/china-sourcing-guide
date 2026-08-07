@@ -87,3 +87,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Tabletop Fire Pit Checks Before Shipping from China](articles/tabletop-fire-pit-checks-china.md) | August 5, 2026 |
 | | [Zipline Kit Checks Before Shipping from China](articles/zipline-kit-checks-china.md) | August 6, 2026 |
 | | [Electric Kettle Checks Before Shipping from China](articles/electric-kettle-checks-china.md) | August 7, 2026 |
+| | [Pull-String Teething Toy Checks Before Shipping from China](articles/pull-string-teething-toy-checks-china.md) | August 8, 2026 |
