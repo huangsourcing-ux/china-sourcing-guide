@@ -89,3 +89,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Electric Kettle Checks Before Shipping from China](articles/electric-kettle-checks-china.md) | August 7, 2026 |
 | | [Pull-String Teething Toy Checks Before Shipping from China](articles/pull-string-teething-toy-checks-china.md) | August 8, 2026 |
 | | [Hair Dryer Brush Checks Before Shipping from China](articles/hair-dryer-brush-checks-china.md) | August 8, 2026 |
+| | [Rechargeable Hand Warmer Checks Before China Shipment](articles/rechargeable-hand-warmer-checks-china.md) | August 9, 2026 |
