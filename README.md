@@ -92,3 +92,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Rechargeable Hand Warmer Checks Before China Shipment](articles/rechargeable-hand-warmer-checks-china.md) | August 9, 2026 |
 | | [Squishy Toy Checks Before Shipping from China](articles/squishy-toy-checks-china.md) | August 10, 2026 |
 | | [Baby Walker Checks Before Shipping from China](articles/baby-walker-checks-china.md) | August 12, 2026 |
+| | [Mattress Flammability Checks Before Shipping from China](articles/mattress-flammability-checks-china.md) | August 13, 2026 |
