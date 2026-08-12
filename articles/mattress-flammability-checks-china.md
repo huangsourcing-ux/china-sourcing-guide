@@ -1,14 +1,14 @@
 ---
 title: "Mattress Flammability Checks Before Shipping from China"
 date: August 13, 2026
-source: https://www.huangsourcing.com#release-checklist
+source: https://www.huangsourcing.com/mattress-flammability-checks-china
 topics: []
 ---
 
 # Mattress Flammability Checks Before Shipping from China
 
 > Published: August 13, 2026
-> Original: https://www.huangsourcing.com#release-checklist
+> Original: https://www.huangsourcing.com/mattress-flammability-checks-china
 
 Check mattress prototypes, 16 CFR 1632 and 1633 evidence, materials, labels, production lots, compressed packs, and release decisions before China shipment.
 
