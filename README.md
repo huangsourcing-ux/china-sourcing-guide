@@ -93,3 +93,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Squishy Toy Checks Before Shipping from China](articles/squishy-toy-checks-china.md) | August 10, 2026 |
 | | [Baby Walker Checks Before Shipping from China](articles/baby-walker-checks-china.md) | August 12, 2026 |
 | | [Mattress Flammability Checks Before Shipping from China](articles/mattress-flammability-checks-china.md) | August 13, 2026 |
+| | [Smoke and CO Alarm Checks Before Shipping from China](articles/smoke-co-alarm-checks-china.md) | August 14, 2026 |
