@@ -12,7 +12,7 @@ topics: []
 
 CPSC eFiling for China imports in 2026: what U.S. buyers should collect before shipment, including product IDs, test data, certificate records, HTS signals, and broker handoff.
 
-CPSC eFiling becomes a practical import problem for U.S.-bound regulated consumer products in 2026. For most covered imported products, the key applicability date is July 8, 2026, with a later January 8, 2027 date for products entered from a Foreign Trade Zone. Buyers sourcing from China should not wait until the shipment is at the port to organize certificate data.
+CPSC eFiling is now an active import requirement for most covered U.S.-bound regulated consumer products. The main applicability date was July 8, 2026, with a later January 8, 2027 date for products entered from a Foreign Trade Zone. Buyers sourcing from China should organize certificate data before final payment or pickup, not after the shipment reaches the port.
 
 ## Quick Answer
 
@@ -20,6 +20,7 @@ Before final payment or pickup, connect the product, SKU, model, manufacturing p
 
 ## Related Guides
 
+- [CPSC - BUILT LUUM light-up tumbler recall](https://www.huangsourcing.comhttps://www.cpsc.gov/Recalls/2026/Lifetime-Brands-Recalls-BUILT-LUUM-Light-Up-Tumblers-Due-to-Risk-of-Choking-and-Battery-Ingestion-Hazards) — Official March 19, 2026 recall describing a China-made product whose LED compartment could separate and release button-cell batteries; used as a bounded product-identity and evidence lesson, not proof that eFiling prevents recalls.
 - [Federal Register - Certificates of Compliance final rule](https://www.huangsourcing.comhttps://www.federalregister.gov/documents/2025/01/08/2024-30826/certificates-of-compliance) — Official final rule for revised certificate requirements under 16 CFR part 1110, including July 8, 2026 applicability for most covered imports and January 8, 2027 for FTZ entries.
 - [CPSC - Certificates of Compliance and eFiling update](https://www.huangsourcing.comhttps://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Certificates) — CPSC guidance stating that importers of consumer products subject to certification must eFile certificate data as of the effective dates.
 - [CPSC - eFiling resources for importers](https://www.huangsourcing.comhttps://www.cpsc.gov/efiling/importers) — CPSC importer guidance explaining importer of record context and linking Quick Start, Product Registry, HTS, citation, and CATAIR resources.
