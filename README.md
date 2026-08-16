@@ -95,3 +95,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Mattress Flammability Checks Before Shipping from China](articles/mattress-flammability-checks-china.md) | August 13, 2026 |
 | | [Smoke and CO Alarm Checks Before Shipping from China](articles/smoke-co-alarm-checks-china.md) | August 14, 2026 |
 | | [Mini Fridge Checks Before Shipping from China](articles/mini-fridge-checks-china.md) | August 15, 2026 |
+| | [Baby Swing Checks Before Shipping from China](articles/baby-swing-checks-china.md) | August 17, 2026 |
