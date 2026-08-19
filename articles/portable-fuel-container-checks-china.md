@@ -1,14 +1,14 @@
 ---
 title: "Portable Fuel Container Checks Before Shipping from China"
 date: August 20, 2026
-source: https://www.huangsourcing.com#release-checklist
+source: https://www.huangsourcing.com/portable-fuel-container-checks-china
 topics: []
 ---
 
 # Portable Fuel Container Checks Before Shipping from China
 
 > Published: August 20, 2026
-> Original: https://www.huangsourcing.com#release-checklist
+> Original: https://www.huangsourcing.com/portable-fuel-container-checks-china
 
 Classify portable fuel containers, verify closure and flame-mitigation evidence, inspect production, and hold or release China shipments.
 
