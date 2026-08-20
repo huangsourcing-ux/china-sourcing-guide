@@ -98,3 +98,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Baby Swing Checks Before Shipping from China](articles/baby-swing-checks-china.md) | August 17, 2026 |
 | | [Ceiling Fan Checks Before Shipping from China](articles/ceiling-fan-checks-china.md) | August 19, 2026 |
 | | [Portable Fuel Container Checks Before Shipping from China](articles/portable-fuel-container-checks-china.md) | August 20, 2026 |
+| | [Pressure Washer Checks Before Shipping from China](articles/pressure-washer-checks-china.md) | August 21, 2026 |
