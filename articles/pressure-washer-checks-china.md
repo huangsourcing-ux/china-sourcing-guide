@@ -1,14 +1,14 @@
 ---
 title: "Pressure Washer Checks Before Shipping from China"
 date: August 21, 2026
-source: https://www.huangsourcing.com#release-checklist
+source: https://www.huangsourcing.com/pressure-washer-checks-china
 topics: []
 ---
 
 # Pressure Washer Checks Before Shipping from China
 
 > Published: August 21, 2026
-> Original: https://www.huangsourcing.com#release-checklist
+> Original: https://www.huangsourcing.com/pressure-washer-checks-china
 
 Verify GFCI, cord, model, electrical evidence, accessories, labels, and cartons before releasing electric pressure washers from China.
 
