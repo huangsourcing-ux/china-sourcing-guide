@@ -1,14 +1,14 @@
 ---
 title: "Treadmill Checks Before Shipping from China"
 date: August 23, 2026
-source: https://www.huangsourcing.com#release-checklist
+source: https://www.huangsourcing.com/treadmill-checks-china
 topics: []
 ---
 
 # Treadmill Checks Before Shipping from China
 
 > Published: August 23, 2026
-> Original: https://www.huangsourcing.com#release-checklist
+> Original: https://www.huangsourcing.com/treadmill-checks-china
 
 Check treadmill model, firmware, speed controls, stop system, power connection, evidence, labels, and cartons before China shipment release.
 
