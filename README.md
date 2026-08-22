@@ -100,3 +100,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Portable Fuel Container Checks Before Shipping from China](articles/portable-fuel-container-checks-china.md) | August 20, 2026 |
 | | [Pressure Washer Checks Before Shipping from China](articles/pressure-washer-checks-china.md) | August 21, 2026 |
 | | [Slide Playset Checks Before Shipping from China](articles/slide-playset-checks-china.md) | August 22, 2026 |
+| | [Treadmill Checks Before Shipping from China](articles/treadmill-checks-china.md) | August 23, 2026 |
