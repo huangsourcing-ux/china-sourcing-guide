@@ -102,3 +102,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Slide Playset Checks Before Shipping from China](articles/slide-playset-checks-china.md) | August 22, 2026 |
 | | [Treadmill Checks Before Shipping from China](articles/treadmill-checks-china.md) | August 23, 2026 |
 | | [Portable Power Station Checks Before Shipping from China](articles/portable-power-station-checks-china.md) | August 24, 2026 |
+| | [Button Battery Packaging Checks Before Shipping from China](articles/button-battery-packaging-china.md) | July 14, 2026 |
