@@ -105,3 +105,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Button Battery Packaging Checks Before Shipping from China](articles/button-battery-packaging-china.md) | July 14, 2026 |
 | | [Youth ATV Checks Before Shipping from China](articles/youth-atv-checks-china.md) | August 27, 2026 |
 | | [Grill Brush Checks Before Shipping from China](articles/grill-brush-checks-china.md) | September 1, 2026 |
+| | [Rattle and Teether Checks Before Shipping from China](articles/rattle-teether-checks-china.md) | September 2, 2026 |
