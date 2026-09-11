@@ -20,7 +20,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Paths
-HF_SOURCING = Path("/Users/hfsourcing/huangsourcing/HFsourcing")
+# A verified production worktree can be selected without changing the caller's checkout.
+HF_SOURCING = Path(os.environ.get("HF_SOURCING_PROJECT", "/Users/hfsourcing/huangsourcing/HFsourcing"))
 KNOWLEDGE_BASE = Path("/Users/hfsourcing/china-sourcing-guide")
 ARTICLES_DIR = KNOWLEDGE_BASE / "articles"
 SRC_LIB = HF_SOURCING / "src" / "lib"
@@ -227,6 +228,10 @@ def sync_article(slug: str) -> dict:
             new_lines.append(entry)
         readme_path.write_text("\n".join(new_lines))
     
+    # Allow a caller to validate/enrich the export and create one explicit commit.
+    if os.environ.get("SYNC_ARTICLE_SKIP_GIT") == "1":
+        return {"success": True, "title": title, "path": str(md_path)}
+
     # Git commit
     try:
         subprocess.run(["git", "-C", str(KNOWLEDGE_BASE), "add", "."], check=True, capture_output=True)
