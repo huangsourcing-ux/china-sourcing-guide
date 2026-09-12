@@ -107,3 +107,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Grill Brush Checks Before Shipping from China](articles/grill-brush-checks-china.md) | September 1, 2026 |
 | | [Rattle and Teether Checks Before Shipping from China](articles/rattle-teether-checks-china.md) | September 2, 2026 |
 | | [Small-Ball Toy Checks Before Shipping from China](articles/small-ball-toy-checks-china.md) | September 4, 2026 |
+| | [Bicycle Helmet Checks Before Shipping from China](articles/bicycle-helmet-checks-china.md) | September 13, 2026 |
