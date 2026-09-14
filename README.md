@@ -108,3 +108,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Rattle and Teether Checks Before Shipping from China](articles/rattle-teether-checks-china.md) | September 2, 2026 |
 | | [Small-Ball Toy Checks Before Shipping from China](articles/small-ball-toy-checks-china.md) | September 4, 2026 |
 | | [Bicycle Helmet Checks Before Shipping from China](articles/bicycle-helmet-checks-china.md) | September 13, 2026 |
+| | [Handbag Chemical Checks Before Shipping from China](articles/handbag-chemical-checks-china.md) | September 15, 2026 |
