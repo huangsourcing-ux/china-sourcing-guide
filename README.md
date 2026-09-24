@@ -110,3 +110,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Bicycle Helmet Checks Before Shipping from China](articles/bicycle-helmet-checks-china.md) | September 13, 2026 |
 | | [Handbag Chemical Checks Before Shipping from China](articles/handbag-chemical-checks-china.md) | September 15, 2026 |
 | | [Heated Blanket Checks Before Shipping from China](articles/heated-blanket-checks-china.md) | September 24, 2026 |
+| | [Retractable Safety Gate Checks Before Shipping from China](articles/retractable-gate-checks-china.md) | September 25, 2026 |
