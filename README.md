@@ -111,3 +111,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Handbag Chemical Checks Before Shipping from China](articles/handbag-chemical-checks-china.md) | September 15, 2026 |
 | | [Heated Blanket Checks Before Shipping from China](articles/heated-blanket-checks-china.md) | September 24, 2026 |
 | | [Retractable Safety Gate Checks Before Shipping from China](articles/retractable-gate-checks-china.md) | September 25, 2026 |
+| | [Busy Board Toy Checks Before Shipping from China](articles/busy-board-toy-checks-china.md) | September 26, 2026 |
