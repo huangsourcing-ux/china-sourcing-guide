@@ -196,9 +196,9 @@ def sync_article(slug: str) -> dict:
     
     description = extract_value(ts_text, "metaDescription")
     date_str = extract_date(ts_text)
-    href = extract_value(ts_text, "href")
-    if not href:
-        href = f"/{slug}"
+    # The argument is the public route. A generic `href:` search can pick an
+    # unrelated table-of-contents anchor or CTA before the article URL.
+    href = f"/{slug}"
     
     # Build markdown
     md = build_markdown(slug, ts_text, title, description, date_str, href)
