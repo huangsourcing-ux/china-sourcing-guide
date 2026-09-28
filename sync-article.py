@@ -113,6 +113,9 @@ def build_markdown(slug: str, ts_text: str, title: str, description: str, date_s
     lines.append(f"# {title}")
     lines.append("")
     lines.append(f"> Published: {date_str}")
+    updated_date = extract_value(ts_text, "modifiedDate")
+    if updated_date:
+        lines.append(f"> Updated: {updated_date}")
     lines.append(f"> Original: https://www.huangsourcing.com{href}")
     lines.append("")
     
@@ -151,10 +154,11 @@ def build_markdown(slug: str, ts_text: str, title: str, description: str, date_s
     # Related links
     related = re.findall(r"href:\s*'([^']+)'\s*,\s*label:\s*'([^']+)'\s*,\s*note:\s*'([^']+)'", ts_text)
     if related:
-        lines.append("## Related Guides")
+        lines.append("## Sources and Related Guides")
         lines.append("")
         for href_val, label, note in related:
-            lines.append(f"- [{label}](https://www.huangsourcing.com{href_val}) — {note}")
+            url = href_val if href_val.startswith(("https://", "http://")) else f"https://www.huangsourcing.com{href_val}"
+            lines.append(f"- [{label}]({url}) — {note}")
         lines.append("")
     
     # Topic tags
