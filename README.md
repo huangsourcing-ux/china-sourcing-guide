@@ -112,3 +112,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Heated Blanket Checks Before Shipping from China](articles/heated-blanket-checks-china.md) | September 24, 2026 |
 | | [Retractable Safety Gate Checks Before Shipping from China](articles/retractable-gate-checks-china.md) | September 25, 2026 |
 | | [Busy Board Toy Checks Before Shipping from China](articles/busy-board-toy-checks-china.md) | September 26, 2026 |
+| | [Crib Mattress Checks Before Shipping from China](articles/crib-mattress-checks-china.md) | September 30, 2026 |
