@@ -113,3 +113,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Retractable Safety Gate Checks Before Shipping from China](articles/retractable-gate-checks-china.md) | September 25, 2026 |
 | | [Busy Board Toy Checks Before Shipping from China](articles/busy-board-toy-checks-china.md) | September 26, 2026 |
 | | [Crib Mattress Checks Before Shipping from China](articles/crib-mattress-checks-china.md) | September 30, 2026 |
+| | [Infant Bouncer Checks Before Shipping from China](articles/infant-bouncer-checks-china.md) | October 1, 2026 |
