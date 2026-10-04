@@ -41,6 +41,7 @@ def slug_to_ts_file(slug: str) -> Path:
     # Some articles use the route slug, some use a shorter name
     # Map known slugs to their TS filenames
     mapping = {
+        "eu-3-euro-customs-duty-china-parcels-2026": "eu-low-value-parcel-duty-china-2026-article.ts",
         "golden-sample-china-manufacturing-quality-control": "golden-sample-china-manufacturing-article.ts",
         "aql-inspection-china-sample-size-defect-limits": "aql-inspection-china-article.ts",
         "factory-vs-trading-company-signals": "factory-vs-trading-company-signals-article.ts",
