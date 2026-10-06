@@ -117,3 +117,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Smart Glasses Checks Before Shipping from China](articles/smart-glasses-checks-china.md) | October 2, 2026 |
 | | [Sleep Machine Charging Checks Before Shipping from China](articles/sleep-machine-checks-china.md) | October 3, 2026 |
 | | [Electric Grill Checks Before Shipping from China](articles/electric-grill-checks-china.md) | October 6, 2026 |
+| | [Recliner Battery Pack Checks Before Shipping from China](articles/recliner-battery-pack-checks-china.md) | October 7, 2026 |
