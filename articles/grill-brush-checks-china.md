@@ -16,17 +16,15 @@ Before paying the balance or releasing a grill brush order from China, freeze th
 
 For a metal wire-bristle brush, a visual pass is not enough. Use four connected gates: approve the product architecture and requirements, verify exact-model evidence, compare sampled production without damaging saleable goods, and trace any destructive testing or correction back to the shipped lots. A routine inspection can document identity, workmanship, dimensions, visible bristle condition, labels, quantities, and pack-out; it cannot prove long-term bristle retention or eliminate ingestion risk.
 
-Written by [Huang Sourcing Editorial Team](https://www.huangsourcing.com/about)|Published on September 1, 2026|Updated on October 8, 2026
+Written by [Huang Sourcing Editorial Team](https://www.huangsourcing.com/about) | Published on September 1, 2026 | Updated on October 8, 2026
 
 Based on cited public records and buyer-side sourcing analysis; limits and specialist responsibilities are stated below.
 
-[Check Grill Brushes Before Shipment](https://wa.me/15035930974)[See Release Checklist](https://www.huangsourcing.com/grill-brush-checks-china#release-checklist)
+[Check Grill Brushes Before Shipment](https://wa.me/15035930974) [See Release Checklist](https://www.huangsourcing.com/grill-brush-checks-china#release-checklist)
 
 ![Neutral AI illustration of an unbranded wire grill brush at a buyer-side inspection table with caliper, magnifier, checklist, and evidence bag](https://www.huangsourcing.com/images/grill-brush-checks-china.webp)
 
 Neutral AI-generated illustration of a generic grill brush review; not a factory photograph, test result, certification, or evidence from the cited public cases.
-
-[Evidence gateArchitecture](https://www.huangsourcing.com/grill-brush-checks-china#release-checklist)[Evidence gateExact model](https://www.huangsourcing.com/grill-brush-checks-china#release-checklist)[Evidence gateProduction lot](https://www.huangsourcing.com/grill-brush-checks-china#release-checklist)[Evidence gateRelease](https://www.huangsourcing.com/grill-brush-checks-china#release-checklist)
 
 Quick answer
 
@@ -34,15 +32,15 @@ Quick answer
 
 Match the exact cleaning architecture, material and attachment construction, approved references, qualified evidence, production changes, sampled goods, labels, instructions, retail sets, lots, and cartons. Keep saleable-goods inspection separate from destructive retention and durability work. Hold mismatches instead of treating a visual pass or informal pull demonstration as proof that bristles will remain attached through use.
 
-- 1Screen individual brushes, tool sets and replacement heads against current official recall identities; hold affected or uncertain stock even when the supplier reports no customer complaints
-- 2Freeze destination, responsible party, exact model, cleaning architecture, materials, dimensions, bristle or coil geometry, handle and head attachment, scraper, production factory, lot, retail set, and carton map
-- 3Have qualified parties identify current product-safety, chemical, food-contact adjacency, labeling, reporting, marketplace, and destination requirements; a generic supplier checklist is not a legal determination
-- 4Prefer a bristle-free design when the buyer’s risk assessment supports it; changing from wire bristles to a coil, scraper, pad, stone, nylon, or another architecture requires its own hazard review and validation
-- 5Map complete test records to the exact tested construction, material, factory, method, conditioning, sample size, acceptance criteria, results, deviations, photographs, and date
-- 6Compare sampled production with the approved sample, drawings, bill of materials, head geometry, wire bundles, twist, anchor points, handle, scraper, finish, labels, instructions, quantities, and packaging
-- 7Keep non-destructive finished-goods inspection separate from qualified destructive retention, fatigue, corrosion, wear, misuse, and lifecycle testing; define sacrificed samples and lot linkage before the visit
-- 8Hold mixed or undocumented models, substituted wire or attachment methods, missing evidence, loose or irregular bristles, damaged heads, sharp unintended edges, corrosion, weak handles, mismatched labels, and untraceable cartons
-- 9Release only named models, lots, sets, and carton ranges after controlled correction and repeat inspection or qualified re-testing where the change or failure requires it
+1. Screen individual brushes, tool sets and replacement heads against current official recall identities; hold affected or uncertain stock even when the supplier reports no customer complaints
+2. Freeze destination, responsible party, exact model, cleaning architecture, materials, dimensions, bristle or coil geometry, handle and head attachment, scraper, production factory, lot, retail set, and carton map
+3. Have qualified parties identify current product-safety, chemical, food-contact adjacency, labeling, reporting, marketplace, and destination requirements; a generic supplier checklist is not a legal determination
+4. Prefer a bristle-free design when the buyer’s risk assessment supports it; changing from wire bristles to a coil, scraper, pad, stone, nylon, or another architecture requires its own hazard review and validation
+5. Map complete test records to the exact tested construction, material, factory, method, conditioning, sample size, acceptance criteria, results, deviations, photographs, and date
+6. Compare sampled production with the approved sample, drawings, bill of materials, head geometry, wire bundles, twist, anchor points, handle, scraper, finish, labels, instructions, quantities, and packaging
+7. Keep non-destructive finished-goods inspection separate from qualified destructive retention, fatigue, corrosion, wear, misuse, and lifecycle testing; define sacrificed samples and lot linkage before the visit
+8. Hold mixed or undocumented models, substituted wire or attachment methods, missing evidence, loose or irregular bristles, damaged heads, sharp unintended edges, corrosion, weak handles, mismatched labels, and untraceable cartons
+9. Release only named models, lots, sets, and carton ranges after controlled correction and repeat inspection or qualified re-testing where the change or failure requires it
 
 China-side evidence module
 
@@ -310,7 +308,14 @@ Keep observation, design validation, destructive testing, legal and marketplace 
 
 ## Related buyer decisions
 
-[QC inspection in ChinaScope a buyer-side exact-model, lot, workmanship, label, quantity, and pack-out comparison before shipment.](https://www.huangsourcing.com/qc-inspection-china)[QC before balance paymentConnect findings, failed evidence, corrective action, and rechecks to the payment-release decision.](https://www.huangsourcing.com/qc-inspection-china-before-balance-payment)[Pre-shipment inspection before pickupKeep unresolved lots, sets, and cartons from moving before closure.](https://www.huangsourcing.com/pre-shipment-inspection-china-before-pickup)[Verify a China lab reportCheck issuer, applicant, model, factory, sample, method, result, and scope.](https://www.huangsourcing.com/verify-china-lab-test-report)[Packaging and label checksAlign product identity, instructions, retail set, barcode, carton, and destination.](https://www.huangsourcing.com/packaging-label-check-before-payment)[Buyer-side inspection report guideTurn observations, defects, photos, quantities, affected lots, and limits into a release record.](https://www.huangsourcing.com/buyer-side-inspection-report)[China manufacturing quality-control planConnect approved design, incoming materials, production controls, inspection, and corrective action.](https://www.huangsourcing.com/quality-control-china-manufacturing-plan)[China sourcing risk guidesCompare related inspection, packaging, payment, pickup, and shipment decisions.](https://www.huangsourcing.com/china-sourcing-risk-guides)
+- [QC inspection in China](https://www.huangsourcing.com/qc-inspection-china) — Scope a buyer-side exact-model, lot, workmanship, label, quantity, and pack-out comparison before shipment.
+- [QC before balance payment](https://www.huangsourcing.com/qc-inspection-china-before-balance-payment) — Connect findings, failed evidence, corrective action, and rechecks to the payment-release decision.
+- [Pre-shipment inspection before pickup](https://www.huangsourcing.com/pre-shipment-inspection-china-before-pickup) — Keep unresolved lots, sets, and cartons from moving before closure.
+- [Verify a China lab report](https://www.huangsourcing.com/verify-china-lab-test-report) — Check issuer, applicant, model, factory, sample, method, result, and scope.
+- [Packaging and label checks](https://www.huangsourcing.com/packaging-label-check-before-payment) — Align product identity, instructions, retail set, barcode, carton, and destination.
+- [Buyer-side inspection report guide](https://www.huangsourcing.com/buyer-side-inspection-report) — Turn observations, defects, photos, quantities, affected lots, and limits into a release record.
+- [China manufacturing quality-control plan](https://www.huangsourcing.com/quality-control-china-manufacturing-plan) — Connect approved design, incoming materials, production controls, inspection, and corrective action.
+- [China sourcing risk guides](https://www.huangsourcing.com/china-sourcing-risk-guides) — Compare related inspection, packaging, payment, pickup, and shipment decisions.
 
 Before balance payment or pickup
 
@@ -318,10 +323,18 @@ Before balance payment or pickup
 
 Send the exact models, construction revisions, reports, approved references, production lots, destructive-test scope, retail sets, carton map, known changes, and deadline. Huang Sourcing can scope a practical China-side comparison before money or goods move.
 
-[Check Before Shipment](https://wa.me/15035930974)[View Inspection Service](https://www.huangsourcing.com/qc-inspection-china)[Free Risk Check](https://www.huangsourcing.com/free-china-sourcing-risk-check)
+[Check Before Shipment](https://wa.me/15035930974) [View Inspection Service](https://www.huangsourcing.com/qc-inspection-china) [Free Risk Check](https://www.huangsourcing.com/free-china-sourcing-risk-check)
 
 ## Sources
 
-Public regulator and public-health records, current safety guidance, and independent coverage checked October 8, 2026 Beijing time. Links identify the exact cases, dates, evidence basis, and limits used here.
+Public records and supporting coverage checked October 8, 2026 Beijing time.
 
-[U.S. CPSC — Walmart Expert Grill recall 27-010October 1, 2026 primary record: affected brush and set identities, China origin, hazard and remedy.](https://www.cpsc.gov/Recalls/2027/Walmart-Recalls-Over-4-4-Million-Expert-Grill-Brushes-Due-to-Ingestion-Hazard)[CookOut News — October 1 grill brush industry reportingIndependent editorial attention signal by Wes Wright; regulator records govern case facts.](https://www.cookoutnews.com/walmart-joins-growing-list-of-companies-recalling-metal-grill-brushes/)[U.S. CPSC - Cuisinart grill brush recall expansionPrimary August 27, 2026 case record for the expanded China-made product population, hazard, model scope, affected quantity, reported detachments, medical treatment, sale period, channels, and remedy.](https://www.cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled)[U.S. CPSC - Nexgrill wire-bristle grill brush recallSeparate primary 2026 record used to establish a recurring category risk without implying the same root cause or supplier.](https://www.cpsc.gov/Recalls/2026/Nexgrill-Recalls-Over-10-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard-Sold-at-Home-Depot)[U.S. CPSC - Weber wire-bristle grill brush recallSeparate primary 2026 record for another large wire-bristle grill brush action; facts remain limited to that notice.](https://www.cpsc.gov/Recalls/2026/Weber-Recalls-Over-3-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard)[U.S. CPSC chairman - overseas wire grill brush enforcement statementMarch 2026 public statement describing enforcement attention and the Nexgrill hazard; identified as a chairman statement, not presented as a new universal test standard.](https://www.cpsc.gov/About-CPSC/Chairman/Peter-A-Feldman/Statement/CPSC-Expands-Enforcement-Targeting-Hazardous-Wire-Grill-Brushes-Manufactured-Overseas)[Health Canada - barbecue and brush safety guidanceCurrent official end-user guidance on inspecting brushes and grills, replacing brushes when bristles loosen, and considering non-metal alternatives.](https://www.canada.ca/en/health-canada/services/home-garden-safety/barbecue-safety.html)[U.S. CDC - wire grill-cleaning brush injury case seriesThe 2012 clinical case series remains useful for the bristle-to-food injury pathway seen in current recalls; it does not measure today’s incidence or a particular shipment’s risk.](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm61e0703a2.htm)[NTD - independent report on the Cuisinart recall expansionRecent secondary coverage checked against the official CPSC record for date, affected total, hazard, and medical-treatment statements.](https://www.ntd.com/3-6-million-grill-brushes-recalled-after-users-swallow-bristles_1169298.html)
+- [U.S. CPSC — Walmart Expert Grill recall 27-010](https://www.cpsc.gov/Recalls/2027/Walmart-Recalls-Over-4-4-Million-Expert-Grill-Brushes-Due-to-Ingestion-Hazard) — October 1, 2026 primary record: affected brush and set identities, China origin, hazard and remedy.
+- [CookOut News — October 1 grill brush industry reporting](https://www.cookoutnews.com/walmart-joins-growing-list-of-companies-recalling-metal-grill-brushes/) — Independent editorial attention signal by Wes Wright; regulator records govern case facts.
+- [U.S. CPSC - Cuisinart grill brush recall expansion](https://www.cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled) — Primary August 27, 2026 case record for the expanded China-made product population, hazard, model scope, affected quantity, reported detachments, medical treatment, sale period, channels, and remedy.
+- [U.S. CPSC - Nexgrill wire-bristle grill brush recall](https://www.cpsc.gov/Recalls/2026/Nexgrill-Recalls-Over-10-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard-Sold-at-Home-Depot) — Separate primary 2026 record used to establish a recurring category risk without implying the same root cause or supplier.
+- [U.S. CPSC - Weber wire-bristle grill brush recall](https://www.cpsc.gov/Recalls/2026/Weber-Recalls-Over-3-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard) — Separate primary 2026 record for another large wire-bristle grill brush action; facts remain limited to that notice.
+- [U.S. CPSC chairman - overseas wire grill brush enforcement statement](https://www.cpsc.gov/About-CPSC/Chairman/Peter-A-Feldman/Statement/CPSC-Expands-Enforcement-Targeting-Hazardous-Wire-Grill-Brushes-Manufactured-Overseas) — March 2026 public statement describing enforcement attention and the Nexgrill hazard; identified as a chairman statement, not presented as a new universal test standard.
+- [Health Canada - barbecue and brush safety guidance](https://www.canada.ca/en/health-canada/services/home-garden-safety/barbecue-safety.html) — Current official end-user guidance on inspecting brushes and grills, replacing brushes when bristles loosen, and considering non-metal alternatives.
+- [U.S. CDC - wire grill-cleaning brush injury case series](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm61e0703a2.htm) — The 2012 clinical case series remains useful for the bristle-to-food injury pathway seen in current recalls; it does not measure today’s incidence or a particular shipment’s risk.
+- [NTD - independent report on the Cuisinart recall expansion](https://www.ntd.com/3-6-million-grill-brushes-recalled-after-users-swallow-bristles_1169298.html) — Recent secondary coverage checked against the official CPSC record for date, affected total, hazard, and medical-treatment statements.
