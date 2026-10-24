@@ -118,3 +118,4 @@ The content in this repository is © Huang Sourcing. It is shared for reference 
 | | [Sleep Machine Charging Checks Before Shipping from China](articles/sleep-machine-checks-china.md) | October 3, 2026 |
 | | [Electric Grill Checks Before Shipping from China](articles/electric-grill-checks-china.md) | October 6, 2026 |
 | | [Recliner Battery Pack Checks Before Shipping from China](articles/recliner-battery-pack-checks-china.md) | October 7, 2026 |
+| | [What Happens If a China QC Inspection Fails?](articles/china-qc-inspection-fails.md) | June 11, 2026 |
